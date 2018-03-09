@@ -78,3 +78,4 @@ npm run serve
 
 5. Open your QR Code Scanner (make sure to have an internet access) and install the app"# pgTabs" 
 "# pgTabs" 
+"# pgTabs" 
