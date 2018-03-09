@@ -77,3 +77,4 @@ npm run serve
 4. Go to PG Build and create a public app then link your repo (master branch)
 
 5. Open your QR Code Scanner (make sure to have an internet access) and install the app"# pgTabs" 
+"# pgTabs" 
